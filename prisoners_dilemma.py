@@ -381,5 +381,5 @@ if __name__ == '__main__':
 #    scores, moves, reports = main_play(modules[0:4])   
 #    scores, moves, reports = main_play([example1, example2, team0])
 #    scores, moves, reports = main_play([example1]*3 + [example2]*2)
-    scores, moves, reports = main_play([example2, example3])
+    scores, moves, reports = main_play([example0, team14])
     section0, section1, section2, section3 = reports
