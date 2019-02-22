@@ -7,8 +7,8 @@
 ####
 
 team_name = 'The Kawaii Orcas' # Only 10 chars displayed.
-strategy_name = 'Spam Betray'
-strategy_description = 'Always Betrays to ensure a gain in points or the least amount of points taken away.'
+strategy_name = 'Always Betray'
+strategy_description = 'How does this strategy decide?'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
